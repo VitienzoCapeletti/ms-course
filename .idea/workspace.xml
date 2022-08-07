@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cacf0095-fb48-4004-9cd6-a768e599c001" name="Changes" comment="add hr-eureka-server and config">
+    <list default="true" id="cacf0095-fb48-4004-9cd6-a768e599c001" name="Changes" comment="random port to hr-worker">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/HrPayrollApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/resource/PaymentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/resource/PaymentResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +17,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hr-worker" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -77,7 +81,10 @@
       <option name="presentableId" value="Default" />
       <updated>1659555719321</updated>
       <workItem from="1659555722157" duration="4470000" />
-      <workItem from="1659594963441" duration="1714000" />
+      <workItem from="1659594963441" duration="2626000" />
+      <workItem from="1659680790358" duration="1754000" />
+      <workItem from="1659760009472" duration="18000" />
+      <workItem from="1659847335075" duration="1181000" />
     </task>
     <task id="LOCAL-00001" summary="add hr-eureka-server and config">
       <created>1659575832604</created>
@@ -86,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659575832604</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="random port to hr-worker">
+      <created>1659596814640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659596814640</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add hr-eureka-server and config" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hr-eureka-server and config" />
+    <MESSAGE value="random port to hr-worker" />
+    <option name="LAST_COMMIT_MESSAGE" value="random port to hr-worker" />
   </component>
 </project>
